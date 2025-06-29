@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="38" fill="#f5f5f5" stroke="#4169e1" stroke-width="2"/>
+  <g transform="translate(16, 16)">
+    <!-- Shield outline -->
+    <path d="M 24 0 L 0 10 L 0 24 C 0 36 10 44 24 48 C 38 44 48 36 48 24 L 48 10 L 24 0 Z" fill="#4169e1" opacity="0.2"/>
+    <path d="M 24 4 L 4 12 L 4 24 C 4 34 12 40 24 44 C 36 40 44 34 44 24 L 44 12 L 24 4 Z" fill="#4169e1" opacity="0.6"/>
+    
+    <!-- Checkmark -->
+    <path d="M 16 24 L 22 30 L 34 18" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Reliability graph -->
+    <path d="M 8 36 L 40 36" stroke="#333333" stroke-width="1"/>
+    <path d="M 8 36 L 8 16" stroke="#333333" stroke-width="1"/>
+    
+    <!-- Graph points and line -->
+    <circle cx="12" cy="32" r="1" fill="#ff4d4d"/>
+    <circle cx="16" cy="28" r="1" fill="#ff4d4d"/>
+    <circle cx="20" cy="24" r="1" fill="#ff4d4d"/>
+    <circle cx="24" cy="22" r="1" fill="#ff4d4d"/>
+    <circle cx="28" cy="20" r="1" fill="#ff4d4d"/>
+    <circle cx="32" cy="20" r="1" fill="#ff4d4d"/>
+    <circle cx="36" cy="20" r="1" fill="#ff4d4d"/>
+    
+    <path d="M 12 32 L 16 28 L 20 24 L 24 22 L 28 20 L 32 20 L 36 20" stroke="#ff4d4d" stroke-width="1"/>
+    
+    <!-- Time indicators -->
+    <path d="M 12 36 L 12 37" stroke="#333333" stroke-width="1"/>
+    <path d="M 24 36 L 24 37" stroke="#333333" stroke-width="1"/>
+    <path d="M 36 36 L 36 37" stroke="#333333" stroke-width="1"/>
+    
+    <!-- Performance indicators -->
+    <path d="M 8 32 L 7 32" stroke="#333333" stroke-width="1"/>
+    <path d="M 8 24 L 7 24" stroke="#333333" stroke-width="1"/>
+    <path d="M 8 16 L 7 16" stroke="#333333" stroke-width="1"/>
+  </g>
+</svg>
