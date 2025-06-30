@@ -627,8 +627,9 @@ header .container {
     max-width: 600px;
     color: var(--white);
     position: relative;
-    z-index: 1;
-    animation: fadeInUp 1s ease;
+    z-index: 2;
+    animation: fadeInUp .5s ease;
+    padding-top: 5%;
 }
 
 .slide-content h2 {
